@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "146851435365",
+    "firebase_url": "https://wsso-codeutsava.firebaseio.com",
+    "project_id": "wsso-codeutsava",
+    "storage_bucket": "wsso-codeutsava.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146851435365:android:090dde9910a0e3a0",
+        "android_client_info": {
+          "package_name": "codeutsava.wsso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146851435365-nu9q0gr278vo782olq2imc6c9jaaoppr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6uoWLqk5m0CGdvwIX3j6301G6aQUGY_0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
